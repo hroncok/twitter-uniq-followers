@@ -1,0 +1,4 @@
+Raw script to get a uniq number of followers for multiple Twitter accounts.
+
+Used for pyvec.org, so Twitter accounts are hardcoded.
+
